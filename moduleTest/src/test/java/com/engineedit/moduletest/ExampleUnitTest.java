@@ -1,4 +1,4 @@
-package com.xiawenhui.jitpacktest;
+package com.engineedit.moduletest;
 
 import org.junit.Test;
 
